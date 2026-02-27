@@ -3,6 +3,22 @@
 **Cloud Engineering Bootcamp - Week 5, Day 2**  
 **Module:** Cloud Automation & CI/CD
 
+## Start Here: Fork, Clone, and Submit
+
+You will complete this lab by working in **your own fork** of the lab repository and submitting a **Pull Request (PR)**.
+1. **Fork the lab repository** to your GitHub account.
+2. **Clone your fork** locally:
+   ```bash
+   git clone https://github.com/<your-github-username>/ce-lab-gitops-workflow.git
+   cd ce-lab-gitops-workflow
+   ```
+
+3. **Follow all instructions below** and save your work in this repo (files, screenshots, and notes).
+4. **When finished, submit your work:**
+   - `git add` → `git commit` → `git push`
+   - Open a **Pull Request** from your fork back to the original lab repo
+   - Copy the **PR URL** and paste it into the **Lab Submission** field in the Student Portal
+
 ## 📋 Lab Overview
 
 Implement a complete GitOps workflow where infrastructure changes are managed entirely through Git. Learn declarative infrastructure management and automated synchronization.
@@ -34,6 +50,8 @@ ce-lab-gitops-workflow/
 
 ## ✅ Submission Requirements
 
+Complete the lab as described in the instructions and save your work in this repo (files, screenshots, and notes):
+
 1. **GitOps Workflows**
    - Drift detection workflow
    - PR-based plan workflow
@@ -46,6 +64,10 @@ ce-lab-gitops-workflow/
 3. **Documentation**
    - GitOps workflow explanation
    - Drift handling procedures
+
+**Reminder:** After pushing your work and opening a PR:
+- Copy the **PR URL**
+- Paste it into the **Lab Submission** field in the Student Portal
 
 ## 🎓 Grading Rubric
 
@@ -69,6 +91,6 @@ ce-lab-gitops-workflow/
 - [GitOps Principles](https://opengitops.dev/)
 - [GitHub Environments](https://docs.github.com/en/actions/deployment/targeting-different-environments)
 
-## 🚀 Submission
+<!-- ## 🚀 Submission
 
-Submit your repository URL through the course platform.
+Submit your repository URL through the course platform. -->
